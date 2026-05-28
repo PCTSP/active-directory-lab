@@ -14,3 +14,20 @@ Configuração de permissões NTFS e compartilhamentos
 
 Estudos de autenticação e gestão de acessos
 
+
+
+Identity & Access Management Simulation
+
+Criação de usuários corporativos
+
+Associação a grupos de segurança
+
+Controle de acesso baseado em função (RBAC)
+
+Processo de onboarding
+
+Processo de offboarding
+
+Gestão de contas privilegiadas
+
+Auditoria básica utilizando Event Viewer
