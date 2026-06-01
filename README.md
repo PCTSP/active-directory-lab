@@ -43,3 +43,17 @@ Account Lockout Policy
 Security Auditing
 
 Event Monitoring
+
+
+
+Windows Security Monitoring
+
+Event Viewer
+
+Event IDs
+
+Login Monitoring
+
+IAM Auditing
+
+Investigação básica
