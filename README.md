@@ -31,3 +31,15 @@ Processo de offboarding
 Gestão de contas privilegiadas
 
 Auditoria básica utilizando Event Viewer
+
+
+
+Group Policy Management
+
+Password Policy
+
+Account Lockout Policy
+
+Security Auditing
+
+Event Monitoring
